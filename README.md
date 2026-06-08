@@ -44,7 +44,7 @@
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosp16&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 <div align="center">
-## 🔥 Streak
+ 🔥 Streak
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Carlosp16&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
  
