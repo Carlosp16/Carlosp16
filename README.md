@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cpereira379@gmail.com)
  
 </div>
----
+
  
 <div align="center">
 ## 🏆 Trophies
@@ -16,7 +16,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Carlosp16&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
  
 </div>
----
+
  
 ## 🛠️ Tech Stack
  
@@ -54,7 +54,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Carlosp16&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
  
 </div>
----
+
  
 <div align="center">
 *"Aprender algo nuevo cada día."*
