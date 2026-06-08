@@ -1,7 +1,7 @@
 <div align="center">
 # Hey, soy Carlos Pereira 👋
  
-### Software Developer · Madrid, España 🇪🇸
+### Software Developer · España 🇪🇸
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlospereiraucv)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://carlosp16.github.io/web-personal)
