@@ -38,7 +38,7 @@
 ---
  
 <div align="center">
-## 📊 GitHub Stats
+📊 GitHub Stats
  
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Carlosp16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosp16&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
